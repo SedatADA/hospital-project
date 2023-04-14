@@ -5,5 +5,5 @@
 <h3>Using Tecnologies</h3>
     HTML5 and CSS codes
 
-<h3> Screen GİF</h3>
-![](Animation2.gif)
+<h3> Screen GİF</h3><br>
+<img src="/image/Animation2.gif">
