@@ -6,4 +6,4 @@
     HTML5 and CSS codes
 
 <h3> Screen GİF</h3><br>
-<img src="/image/Animation2.gif">
+<img src="/image/Animation2.gif"/>
